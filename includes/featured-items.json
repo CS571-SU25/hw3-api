@@ -1,0 +1,77 @@
+{
+    "Sunday": {
+        "name": "Sunflower Seeds",
+        "img": "https://raw.githubusercontent.com/CS571-SU25/hw3-api-static-content/main/seeds.png",
+        "description": "Edible seeds from the sunflower plant, often roasted and salted, used as a snack or ingredient in various dishes.",
+        "price": 1.29,
+        "nutrition": {
+            "calories": 120,
+            "protein": "5g",
+            "fat": "8g",
+            "carbohydrates": "4g"
+        }
+    },
+    "Monday": {
+        "name": "Molasses",
+        "img": "https://raw.githubusercontent.com/CS571-SU25/hw3-api-static-content/main/molasses.png",
+        "description": "A thick, dark syrup produced during the sugar-making process, known for its rich, sweet, and slightly bitter flavor.",
+        "price": 3.99,
+        "nutrition": {
+            "calories": 290,
+            "carbohydrates": "75g"
+        }
+    },
+    "Tuesday": {
+        "name": "Tuna",
+        "img": "https://raw.githubusercontent.com/CS571-SU25/hw3-api-static-content/main/tuna.png",
+        "description": "A saltwater fish widely consumed for its firm, pink flesh, popular in cooked dishes or preserved as canned tuna.",
+        "price": 0.99,
+        "nutrition": {
+            "calories": 130,
+            "protein": "28g"
+        }
+    },
+    "Wednesday": {
+        "name": "Weetabix",
+        "img": "https://raw.githubusercontent.com/CS571-SU25/hw3-api-static-content/main/cereal.png",
+        "description": "A wholegrain wheat breakfast cereal, shaped into compact, rectangular biscuits, known for its high fiber content.",
+        "price": 2.49,
+        "nutrition": {
+            "calories": 135,
+            "protein": "5g",
+            "carbohydrates": "26g"
+        }
+    },
+    "Thursday": {
+        "name": "Thyme",
+        "img": "https://raw.githubusercontent.com/CS571-SU25/hw3-api-static-content/main/thyme.png",
+        "description": "A fragrant herb with small, green leaves, used for seasoning a wide range of dishes, offering a slightly minty and lemony flavor.",
+        "price": 0.49,
+        "nutrition": {
+            "calories": 0
+        }
+    },
+    "Friday": {
+        "name": "Fries (Frozen)",
+        "img": "https://raw.githubusercontent.com/CS571-SU25/hw3-api-static-content/main/fries.png",
+        "description": "Pre-cut potatoes, blanched and frozen, designed for convenient cooking to achieve a crispy exterior and fluffy interior.",
+        "price": 1.89,
+        "nutrition": {
+            "calories": 310,
+            "protein": "3g",
+            "fat": "15g",
+            "carbohydrates": "41g"
+        }
+    },
+    "Saturday": {
+        "name": "Salmon",
+        "img": "https://raw.githubusercontent.com/CS571-SU25/hw3-api-static-content/main/salmon.png",
+        "description": "A popular fatty fish, distinguished by its pink to orange flesh, enjoyed for its rich flavor and high omega-3 fatty acid content.",
+        "price": 6.99,
+        "nutrition": {
+            "calories": 210,
+            "protein": "20g",
+            "fat": "13g"
+        }
+    }
+}
